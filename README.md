@@ -35,9 +35,3 @@ Penelitian ini menganalisis jaringan komunikasi organisasi kemahasiswaan (skala 
 
 ---
 
-## 🚀 Cara Menjalankan Kode di Google Colab
-1. Buka [Google Colab](https://colab.research.google.com/).
-2. *Upload* file `analisis jejaring sosial_ahmad khaerun maknun.ipynb`.
-3. Jalankan perintah instalasi modul di sel pertama:
-   ```bash
-   !pip install python-louvain
