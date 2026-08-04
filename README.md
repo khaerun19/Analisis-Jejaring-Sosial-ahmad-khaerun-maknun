@@ -5,10 +5,10 @@ Repository ini berisi Laporan Tugas Pra UAS Mata Kuliah **Analisis Jejaring Sosi
 ---
 
 ## 👤 Identitas Mahasiswa
-* **Nama:** Ahmad Khaerun Maknun[cite: 9]
-* **Kelas:** 8A - Analisis Jejaring Sosial[cite: 9]
-* **Institusi:** Universitas Tangerang Raya[cite: 9]
-* **Mata Kuliah:** Analisis Jejaring Sosial[cite: 9]
+* **Nama:** Ahmad Khaerun Maknun
+* **Kelas:** 8A - Analisis Jejaring Sosial
+* **Institusi:** Universitas Tangerang Raya
+* **Mata Kuliah:** Analisis Jejaring Sosial
 
 ---
 
