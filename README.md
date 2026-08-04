@@ -1,26 +1,26 @@
 # 📊 Analisis Jejaring Sosial (SNA) - Evaluasi Komunikasi Organisasi
 
-Repository ini berisi Laporan Tugas Pra UAS Mata Kuliah **Analisis Jejaring Sosial** mengenai evaluasi efektivitas komunikasi internal organisasi kemahasiswaan berbasis *Social Network Analysis (SNA)*[cite: 9].
+Repository ini berisi Laporan Tugas Pra UAS Mata Kuliah **Analisis Jejaring Sosial** mengenai evaluasi efektivitas komunikasi internal organisasi kemahasiswaan berbasis *Social Network Analysis (SNA)*.
 
 ---
 
 ## 👤 Identitas Mahasiswa
-* **Nama:** Ahmad Khaerun Maknun[cite: 9]
-* **Kelas:** 8A - Analisis Jejaring Sosial[cite: 9]
-* **Mata Kuliah:** Analisis Jejaring Sosial[cite: 9]
-* **Institusi:** Universitas Tangerang Raya[cite: 9]
+* **Nama:** Ahmad Khaerun Maknun
+* **Kelas:** 8A - Analisis Jejaring Sosial
+* **Mata Kuliah:** Analisis Jejaring Sosial
+* **Institusi:** Universitas Tangerang Raya
 
 ---
 
 ## 📌 Ringkasan Tugas
-Penelitian ini menganalisis jaringan komunikasi organisasi kemahasiswaan (skala $N = 1.000$ node) menggunakan pendekatan *Social Network Analysis (SNA)* dengan bantuan pustaka `NetworkX` dan `python-louvain`[cite: 9].
+Penelitian ini menganalisis jaringan komunikasi organisasi kemahasiswaan (skala $N = 1.000$ node) menggunakan pendekatan *Social Network Analysis (SNA)* dengan bantuan pustaka `NetworkX` dan `python-louvain`.
 
 ### Poin Utama Pembahasan:
-1. **Representasi Graf & Matriks Adjacency:** Pemodelan graf berarah (*directed*) dan berbobot (*weighted*) dari 4 saluran komunikasi serta matriks keterdampingan $5 \times 5$[cite: 9].
-2. **Metrik Sentralitas:** Perhitungan *In-Degree*, *Out-Degree*, *Betweenness*, *Closeness*, dan *Eigenvector Centrality* untuk pemetaan *Gatekeeper* dan *Hub*[cite: 9].
-3. **Metrik Global & Louvain:** Evaluasi *Density* ($\rho \approx 0.012$), *Diameter* (8 hop), *Average Path Length* (3.42 langkah), dan segmentasi 4 komunitas[cite: 9].
-4. **Simulasi Propagasi:** Pengujian model *Independent Cascade (IC)* dan *SIR* (Seed Sentral 85% vs Seed Pinggiran 18%)[cite: 9].
-5. **Visualisasi & Rekomendasi:** Pemetaan *Core-Periphery Structure* dan perancangan kebijakan *Liaison Officer*[cite: 9].
+1. **Representasi Graf & Matriks Adjacency:** Pemodelan graf berarah (*directed*) dan berbobot (*weighted*) dari 4 saluran komunikasi serta matriks keterdampingan $5 \times 5$.
+2. **Metrik Sentralitas:** Perhitungan *In-Degree*, *Out-Degree*, *Betweenness*, *Closeness*, dan *Eigenvector Centrality* untuk pemetaan *Gatekeeper* dan *Hub*.
+3. **Metrik Global & Louvain:** Evaluasi *Density* ($\rho \approx 0.012$), *Diameter* (8 hop), *Average Path Length* (3.42 langkah), dan segmentasi 4 komunitas.
+4. **Simulasi Propagasi:** Pengujian model *Independent Cascade (IC)* dan *SIR* (Seed Sentral 85% vs Seed Pinggiran 18%).
+5. **Visualisasi & Rekomendasi:** Pemetaan *Core-Periphery Structure* dan perancangan kebijakan *Liaison Officer*.
 
 ---
 
