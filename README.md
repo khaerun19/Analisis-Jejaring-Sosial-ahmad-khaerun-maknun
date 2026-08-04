@@ -31,7 +31,7 @@ Penelitian ini menganalisis jaringan komunikasi organisasi kemahasiswaan (skala 
 | `analisis jejaring sosial_ahmad khaerun maknun.ipynb` | File kode program Python Google Colab |
 | `Analisis_Jejaring_Sosial_Ahmad_Khaerun_Maknun_8A.pdf` | Laporan lengkap tugas pra UAS |
 | `jejaring_organisasi_8A.graphml` | File data graf untuk Gephi |
-| `grafik_jejaring_sosial_8A.png` | Gambar hasil visualisasi jaringan |
+| `ajs_khaerun.png` | Gambar hasil visualisasi jaringan |
 
 ---
 
